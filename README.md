@@ -2,6 +2,8 @@
 - 👀 I’m interested in learning new algorithms, programming languages...
 - 🌱 I’m currently learning c++, dynamic memory allocation and game development 
 - 📫 How to reach me ice21390176@uniwa.gr 
+- 🏀 Runner (Half-marathon)
+- 💻 Programmer (student)
 
 <!--
 Rick Sanchez/0x7269636B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
