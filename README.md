@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Papadopoulos Ioannis from Greece, student at University of West Attica and coding instructor  
+- 👋 Hi, I’m Papadopoulos Ioannis from Greece, student at University of West Attica and coding instructor at ROBOTONIO! 
 - 👀 I’m interested in learning new algorithms, programming languages...
 - 🌱 I’m currently learning c++, shell scripting, awk scripts and game development 
 - 📫 How to reach me ice21390176@uniwa.gr 
