@@ -30,8 +30,6 @@
 Here are a few things I'm working on or have built:
 
 - 🔭 [**PICTOR Scheduler**](https://github.com/0x7269636B/PICTOR_scheduler): Automates radio-telescope observations — from scheduling to email delivery.
-- 🔌 [**ESP32 Parking Gate Controller**](https://github.com/0x7269636B/esp32-parking-gate) (WIP): Secure MQTT-based parking access system.
-- 🚀 [**GreenPulse**](https://github.com/0x7269636B/greenpulse): Drone-based AI scanner for urban ecosystem health.
 
 ➡️ _More projects coming soon!_
 
