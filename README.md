@@ -1,54 +1,41 @@
-<h1 align="center">Hi there 👋, I'm Ioannis Papadopoulos</h1>
-<h3 align="center">Student • Developer • Robotics Coach</h3>
-
----
-
-### 💡 About Me
-
-- 🧠 I’m currently studying **Informatics and Computer Engineering** at the **University of West Attica**.
-- 🤖 I teach coding and mentor students for **First Lego League (FLL)** and **WRO competitions** at **ROBOTONIO**.
-- 🎯 Currently learning: **C++, shell scripting, AWK**, and **game development**.
-- 🏃 Half-marathon runner, always chasing goals — both on the track and in code.
-
----
-
-### 🔧 Technologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
-
----
-
-### 🧪 Projects
-
-Here are a few things I'm working on or have built:
-
-- 🔭 [**PICTOR Scheduler**](https://github.com/0x7269636B/PICTOR_scheduler): Automates radio-telescope observations — from scheduling to email delivery.
-
-➡️ _More projects coming soon!_
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">Γεια, είμαι ο 0x7269636B (Rick) 👋</h1>
+<h3 align="center">Educator | Robotics Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x7269636B&show_icons=true&theme=github_dark&count_private=true&hide=prs" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7269636B&layout=compact&theme=github_dark" height="165">
+  Εκπαιδεύω τη νέα γενιά προγραμματιστών στη Ρομποτική (Lego EV3/Spike, Python) και παράλληλα αναπτύσσω σύγχρονες, απαιτητικές Full-Stack Web Εφαρμογές.
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 🛠️ Tech Stack & Εργαλεία
 
-- [📎 LinkedIn](https://www.linkedin.com/in/papadopoulos-ioannis-94aa27263)
-- [📸 Instagram](https://www.instagram.com/papadopoulos.johnny)
+**Robotics & Scripting** <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEGO%20EV3%20%26%20Spike-E2231A?style=for-the-badge&logo=lego&logoColor=white" />
+</p>
+
+**Full-Stack Web Development** <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+</p>
 
 ---
 
-_“Code is the closest thing we have to magic.”_
+### 🚀 Featured Project: Educational Center Management System
+Ένα από τα πιο απαιτητικά project μου είναι μια **Business Web Εφαρμογή (3-tier CRUD SPA)** για την ακαδημαϊκή και οικονομική διαχείριση εκπαιδευτικών κέντρων.
+* **Frontend:** React, JavaScript
+* **Backend:** Java, Spring Boot, Hibernate
+* **Security & Architecture:** Role-Based Access Control (RBAC), RESTful APIs.
+
+---
+
+### 📊 Στατιστικά GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x7269636B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7269636B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
