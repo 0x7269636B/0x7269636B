@@ -1,9 +1,9 @@
 <h1 align="center">Γεια, είμαι ο 0x7269636B (Rick) 👋</h1>
 <h3 align="center">Educator | Robotics Enthusiast | Full-Stack Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   Εκπαιδεύω τη νέα γενιά προγραμματιστών στη Ρομποτική (Lego EV3/Spike, Python) και παράλληλα αναπτύσσω σύγχρονες, απαιτητικές Full-Stack Web Εφαρμογές.
-</p>
+</p> -->
 
 ---
 
