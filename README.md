@@ -1,23 +1,22 @@
-<h1 align="center">0x7269636B — Rick</h1>
-<h3 align="center">Educator · Robotics · Full-Stack</h3>
+<h1 align="center">0x7269636B</h1>
 
 <p align="center">
-  <em>Decode the username. That's lesson one.</em>
+  <code>rick</code> &nbsp;·&nbsp; educator &nbsp;·&nbsp; builder &nbsp;·&nbsp; the one who shows you the door
 </p>
 
 ---
 
-Διδάσκω προγραμματισμό και ρομποτική — και όταν δεν είμαι στην τάξη, χτίζω εφαρμογές που λύνουν πραγματικά προβλήματα.
+Δεν διδάσκω απλώς κώδικα.  
+Διδάσκω πώς να σκέφτεσαι σαν μηχανή — για να μπορείς να την ελέγχεις εσύ, όχι αυτή εσένα.
 
-Πιστεύω ότι ο κώδικας δεν είναι απλώς εργαλείο. Είναι τρόπος σκέψης.  
-Και ο καλύτερος τρόπος να το αποδείξεις είναι να δείξεις τη δουλειά σου.
+Ρομποτική, full-stack, embedded systems.  
+Όλα ξεκινούν από το ίδιο σημείο: κατανόησε το πρόβλημα πριν αγγίξεις το πληκτρολόγιο.
 
 ---
 
-### Τεχνολογίες
+### Stack
 
 **Robotics & Scripting**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,7 +24,6 @@
 </p>
 
 **Full-Stack Web Development**
-
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
@@ -36,7 +34,14 @@
 
 ---
 
-### GitHub Stats
+<p align="center">
+  <em>Αν διαβάζεις αυτό και είσαι αρχάριος — καλώς ήρθες.<br>
+  Εδώ ξεκινάνε όλοι.</em>
+</p>
+
+---
+
+### Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x7269636B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
