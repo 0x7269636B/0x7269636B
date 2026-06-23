@@ -1,49 +1,60 @@
-<h1 align="center">0x7269636B</h1>
+<div align="center">
 
-<p align="center">
-  <code>rick</code> &nbsp;·&nbsp; educator &nbsp;·&nbsp; builder &nbsp;·&nbsp; the one who shows you the door
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=root%40system%3A~%24+access+granted;decoding+0x7269636B...;welcome+to+the+machine" alt="typing" />
 
----
-
-Δεν διδάσκω απλώς κώδικα.  
-Διδάσκω πώς να σκέφτεσαι σαν μηχανή — για να μπορείς να την ελέγχεις εσύ, όχι αυτή εσένα.
-
-Ρομποτική, full-stack, embedded systems.  
-Όλα ξεκινούν από το ίδιο σημείο: κατανόησε το πρόβλημα πριν αγγίξεις το πληκτρολόγιο.
+</div>
 
 ---
 
-### Stack
+```bash
+$ whoami
+0x7269636B   # γνωστός και ως "Rick"
 
-**Robotics & Scripting**
+$ cat ./about.txt
+> Δεν διδάσκω κώδικα.
+> Διδάσκω πώς να σκέφτεσαι — ώστε η μηχανή να δουλεύει για σένα.
+
+$ ls ./domains/
+robotics/    fullstack/    embedded/
+
+$ echo $PHILOSOPHY
+"Κατανόησε το πρόβλημα πριν αγγίξεις το πληκτρολόγιο."
+```
+
+---
+
+### `./stack --list`
+
+```bash
+robotics    → Python · MicroPython · LEGO EV3 & Spike
+backend     → Java · Spring Boot · Hibernate
+frontend    → React · JavaScript
+```
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LEGO%20EV3%20%26%20Spike-E2231A?style=for-the-badge&logo=lego&logoColor=white" />
-</p>
-
-**Full-Stack Web Development**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B5B84?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEGO%20EV3%20%26%20Spike-E2231A?style=flat-square&logo=lego&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-  <em>Αν διαβάζεις αυτό και είσαι αρχάριος — καλώς ήρθες.<br>
-  Εδώ ξεκινάνε όλοι.</em>
-</p>
-
----
-
-### Stats
+### `./stats --show`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0x7269636B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7269636B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0x7269636B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7269636B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
+
+---
+
+```bash
+$ ./run.sh
+[ booting next generation... ]
+[ ok ] η σειρά σου τώρα.
+```
