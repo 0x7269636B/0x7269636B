@@ -11,14 +11,19 @@ $ whoami
 0x7269636B   # γνωστός και ως "Rick"
 
 $ cat ./about.txt
-> Δεν διδάσκω κώδικα.
-> Διδάσκω πώς να σκέφτεσαι — ώστε η μηχανή να δουλεύει για σένα.
+> 6 χρόνια εκπαιδευτικός στη Ρομποτική.
+> Τελειόφοιτος Μηχανικών Πληροφορικής & Υπολογιστών, ΠΑΔΑ.
+> Κοιτάω συχνά τον ουρανό. Το διάστημα δεν τελειώνει ποτέ — ούτε η περιέργεια.
+
+$ uptime
+> coding for ~9 years, 0 days without learning something new
 
 $ ls ./domains/
 robotics/    fullstack/    embedded/
 
 $ echo $PHILOSOPHY
-"Κατανόησε το πρόβλημα πριν αγγίξεις το πληκτρολόγιο."
+> KISS — Keep It Simple, Stupid.
+> Ο απλός κώδικας ζει περισσότερο και σπάει λιγότερο.
 ```
 
 ---
@@ -57,4 +62,8 @@ frontend    → React · JavaScript
 $ ./run.sh
 [ booting next generation... ]
 [ ok ] η σειρά σου τώρα.
+
+$ sudo make coffee
+[sudo] password for 0x7269636B:
+Error: permission denied — ☕ δεν φτιάχνεται με root.
 ```
