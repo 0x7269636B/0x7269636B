@@ -52,7 +52,7 @@ frontend    → React · JavaScript
 ### `./stats --show`
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0x7269636B&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=0x7269636B&show_icons=true&commits_year=2026&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x7269636B&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
