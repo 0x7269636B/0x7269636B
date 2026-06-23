@@ -23,7 +23,7 @@ robotics/    fullstack/    embedded/
 
 $ echo $PHILOSOPHY
 > KISS — Keep It Simple, Stupid.
-> Ο απλός κώδικας ζει περισσότερο και σπάει λιγότερο.
+> Ο απλός κώδικας ζει περισσότερο και χαλάει λιγότερο.
 ```
 
 ---
@@ -61,9 +61,9 @@ frontend    → React · JavaScript
 ```bash
 $ ./run.sh
 [ booting next generation... ]
-[ ok ] η σειρά σου τώρα.
+[ ok ] Done.
 
 $ sudo make coffee
 [sudo] password for 0x7269636B:
-Error: permission denied — ☕ δεν φτιάχνεται με root.
+Error: permission denied.
 ```
