@@ -65,4 +65,5 @@ $ ./run.sh
 $ sudo make coffee
 [sudo] password for 0x7269636B:
 Error: permission denied.
+
 ```
